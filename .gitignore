@@ -10,3 +10,7 @@ node_modules
 # Временные файлы
 *.tmp
 *~
+
+# Каталоги
+dist
+public/dist
